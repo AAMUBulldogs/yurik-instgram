@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' />
+<img src='https://github.com/AAMUBulldogs/yurik-instgram/blob/master/Instgram.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
