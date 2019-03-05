@@ -1,6 +1,6 @@
 # Project 3 - *InstagramCodepath*
 
-**SylensInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**YurikInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **48** hours spent in total
 
@@ -14,9 +14,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Style the feed to look like the real Instagram feed.
-- [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
-- [ ] Show the username and creation time for each post.
+- [x] Style the feed to look like the real Instagram feed.
+- [x] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
+- [x] Show the username and creation time for each post.
 - [ ] User can tap a post to view post details, including timestamp and caption.
 - [x] User Profiles
       - [x] Allow the logged in user to add a profile photo
@@ -34,22 +34,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sylenss/InstagramCodepath/blob/master/Instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
-## Open-source libraries used
-
-- [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
-
+parse account wouldn't come up in my terminal! showed me to many errors!
 ## License
 
-    Copyright [2019] [Christina Clayton]
+    Copyright [2019] [Yurik Bethune]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
